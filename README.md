@@ -32,6 +32,19 @@
 | ☀️ Sunlight   | Time & energy                       | Pomodoro Sessions             |
 | 🌱 Soil       | Moral and emotional grounding       | Meditation & Self-Introspection |
 
+## 🌍 Real-World Impact
+At Green Mind, growth isn't just virtual—it's rooted in reality.
+
+🌳 For every milestone a user achieves within the app, we take real-world action by planting a real tree on their behalf through partnered environmental initiatives.
+
+This bridges the gap between digital self-growth and ecological sustainability.
+
+Users not only enhance their own lives but actively contribute to a greener planet.
+
+A true win-win: Personal growth fuels planetary growth.
+
+Together, we’re building a world where every habit helps, and every effort leaves a green footprint.
+
 ## 👥 My Contribution
 
 As a core contributor to **Green Mind**, I was responsible for:
