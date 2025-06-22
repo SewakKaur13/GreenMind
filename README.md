@@ -53,7 +53,3 @@ As a core contributor to **Green Mind**, I was responsible for:
 - ✅ Designing and developing the **Register**, **Login**, **Change Password**, and **Profile** pages (Frontend & Backend with integration).
 - ✅ Building the complete **Backend for Pomodoro Timer** module.
 - ✅ Developing the **Backend for Meditation Spot** including integration-ready APIs.
-
-## 📸 Screenshots
-
-> Upload all related screenshots
